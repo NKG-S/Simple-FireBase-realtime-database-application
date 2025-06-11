@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491604191201",
+    "project_id": "database-431ff",
+    "storage_bucket": "database-431ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491604191201:android:45aadea5287f716ba0d4a0",
+        "android_client_info": {
+          "package_name": "com.uoc.fot.ict.database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcWRubEXzzqhETFUMLfbWBKL0IzXXZeLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
