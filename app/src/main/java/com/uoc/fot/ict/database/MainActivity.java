@@ -34,8 +34,10 @@ public class MainActivity extends AppCompatActivity {
         // Open EditActivity when editButton is clicked
         editButton.setOnClickListener(v -> {
             Intent intent = new Intent(MainActivity.this, EditActivity.class);
+
             intent.putExtra("title", titleOut.getText().toString());
             intent.putExtra("description", descriptionOut.getText().toString());
+
             startActivityForResult(intent, 1); // Request code 1
         });
     }
